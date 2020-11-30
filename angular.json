@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sofre30112020"
+    }
+  },
+  "defaultProject": "sofre30112020",
+  "cli": {
+    "analytics": "95376636-8924-4be8-8ffb-acd8df982e16"
+  }
 }
